@@ -1,0 +1,10 @@
+{
+  "name": "node-webkit",
+  "version": "0.0.1",
+  "main": "index.html",
+  "window": {
+    "toolbar": true,
+    "frame": true ,
+    "transparent":false 
+  }
+}
